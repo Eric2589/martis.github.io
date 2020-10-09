@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>martisss</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-05T10:32:17.476Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>martisss</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="http://example.com/2020/10/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    <id>http://example.com/2020/10/05/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</id>
+    <published>2020-10-05T10:32:17.000Z</published>
+    <updated>2020-10-05T10:32:17.476Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好</title>
+    <link href="http://example.com/2020/10/05/%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://example.com/2020/10/05/%E4%BD%A0%E5%A5%BD/</id>
+    <published>2020-10-05T10:19:41.000Z</published>
+    <updated>2020-10-05T10:20:28.546Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;你好，世界&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/10/05/hello-world/"/>
+    <id>http://example.com/2020/10/05/hello-world/</id>
+    <published>2020-10-05T10:13:16.826Z</published>
+    <updated>2020-10-05T10:13:16.826Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
